@@ -7,6 +7,7 @@ public class Hotel {
     private int[] availableRooms;
     private Booking[] bookings;
     private int bookingCounter;
+//    Add other requirements
 
     public Hotel(String hotelName, int totalAvailableRooms) {
         this.hotelName = hotelName;
